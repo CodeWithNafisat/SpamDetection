@@ -43,13 +43,8 @@ I built this project to:
    pip install numpy pandas scikit-learn nltk matplotlib seaborn jupyter
    ```
 
-3. **Download NLP Resources**
 
-   ```bash
-   python -c "import nltk; nltk.download('stopwords'); nltk.download('wordnet')"
-   ```
-
-4. **Run the Notebook**
+3. **Run the Notebook**
    Launch Jupyter Notebook and open `spam.ipynb` to explore the complete implementation.
 
 ---
